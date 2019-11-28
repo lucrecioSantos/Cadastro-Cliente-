@@ -1,0 +1,360 @@
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\ApplicationInsights.config
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csc.exe
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csc.exe.config
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csc.rsp
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csi.exe
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csi.rsp
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.AppContext.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.Collections.Immutable.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.IO.FileSystem.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\vbc.exe
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\vbc.exe.config
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\vbc.rsp
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\VBCSCompiler.exe
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\VBCSCompiler.exe.config
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\CrudAspNetMvc.dll.config
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\CrudAspNetMvc.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\CrudAspNetMvc.pdb
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Antlr3.Runtime.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.SqlServer.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.Web.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.WindowsServer.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.ApplicationInsights.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.Web.Infrastructure.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Newtonsoft.Json.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Helpers.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Mvc.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Optimization.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Razor.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Deployment.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Razor.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\WebGrease.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.SqlServer.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Helpers.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Mvc.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Optimization.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Razor.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Deployment.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Razor.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Antlr3.Runtime.pdb
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Newtonsoft.Json.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.ApplicationInsights.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.WindowsServer.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.Web.xml
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.csprojResolveAssemblyReference.cache
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.dll
+c:\users\joel\documents\visual studio 2017\Projects\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.pdb
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\ApplicationInsights.config
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csc.exe
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csc.exe.config
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csc.rsp
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csi.exe
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csi.rsp
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.AppContext.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.IO.FileSystem.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\vbc.exe
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\vbc.exe.config
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\vbc.rsp
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\VBCSCompiler.exe
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\CrudAspNetMvc.dll.config
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\CrudAspNetMvc.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\CrudAspNetMvc.pdb
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Antlr3.Runtime.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.SqlServer.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.Web.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.WindowsServer.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.ApplicationInsights.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Newtonsoft.Json.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Helpers.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Mvc.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Optimization.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Razor.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Deployment.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Razor.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\WebGrease.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.SqlServer.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Helpers.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Mvc.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Optimization.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Razor.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Deployment.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Razor.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Antlr3.Runtime.pdb
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Newtonsoft.Json.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.ApplicationInsights.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.WindowsServer.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.Web.xml
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.csprojAssemblyReference.cache
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.csproj.CopyComplete
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.dll
+C:\CRUD_ASPNETMVC\CrudAspNetMvc-final\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.pdb
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\ApplicationInsights.config
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csc.exe
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csc.exe.config
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csc.rsp
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csi.exe
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csi.rsp
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.AppContext.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.Collections.Immutable.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.IO.FileSystem.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.Reflection.Metadata.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\vbc.exe
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\vbc.exe.config
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\vbc.rsp
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\VBCSCompiler.exe
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\VBCSCompiler.exe.config
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\CrudAspNetMvc.dll.config
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\CrudAspNetMvc.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\CrudAspNetMvc.pdb
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Antlr3.Runtime.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.SqlServer.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.Agent.Intercept.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.DependencyCollector.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.Web.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.WindowsServer.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.ApplicationInsights.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.Web.Infrastructure.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Newtonsoft.Json.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Helpers.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Mvc.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Optimization.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Razor.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Deployment.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Razor.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\WebGrease.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.SqlServer.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Helpers.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Mvc.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Optimization.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Razor.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Deployment.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Razor.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Antlr3.Runtime.pdb
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Newtonsoft.Json.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.ApplicationInsights.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.DependencyCollector.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.WindowsServer.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.Web.xml
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.csprojAssemblyReference.cache
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.csproj.CopyComplete
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.dll
+U:\TI\Sistemas\codigos-c#\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.pdb
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\ApplicationInsights.config
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csc.exe
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csc.exe.config
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csc.rsp
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csi.exe
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\csi.rsp
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.AppContext.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\vbc.exe
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\vbc.exe.config
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\vbc.rsp
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\CrudAspNetMvc.dll.config
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\CrudAspNetMvc.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\CrudAspNetMvc.pdb
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Antlr3.Runtime.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.Web.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Newtonsoft.Json.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Helpers.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Mvc.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Optimization.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Razor.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\WebGrease.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Helpers.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Mvc.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Optimization.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.Razor.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Antlr3.Runtime.pdb
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Newtonsoft.Json.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\bin\Microsoft.AI.Web.xml
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.csprojAssemblyReference.cache
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.csproj.CopyComplete
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.dll
+C:\Users\tiago.melo\Documents\CrudAspNetMvc\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.pdb
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\ApplicationInsights.config
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\csc.exe
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\csc.exe.config
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\csc.rsp
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\csi.exe
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\csi.rsp
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\System.AppContext.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\vbc.exe
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\vbc.exe.config
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\vbc.rsp
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\CrudAspNetMvc.dll.config
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\CrudAspNetMvc.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\CrudAspNetMvc.pdb
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Antlr3.Runtime.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\EntityFramework.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.AI.Web.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Newtonsoft.Json.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\System.Web.Helpers.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\System.Web.Mvc.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\System.Web.Optimization.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\System.Web.Razor.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\System.Web.WebPages.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\WebGrease.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\EntityFramework.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\System.Web.Helpers.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\System.Web.Mvc.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\System.Web.Optimization.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\System.Web.Razor.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\System.Web.WebPages.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Antlr3.Runtime.pdb
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Newtonsoft.Json.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\bin\Microsoft.AI.Web.xml
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.csprojAssemblyReference.cache
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.csproj.CoreCompileInputs.cache
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.csproj.CopyComplete
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.dll
+C:\Users\Lucrécio Santos\Desktop\teste 3\CrudAspNetMvc\obj\Debug\CrudAspNetMvc.pdb
